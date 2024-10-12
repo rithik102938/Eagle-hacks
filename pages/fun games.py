@@ -4,7 +4,7 @@ st.title("Fun Games")
 
 
 
-st.header("Aashuray's music guesser")
+st.header("Music guesser")
 # HTML for the Scratch iframe
 scratch_iframe = '''
 <iframe src="https://scratch.mit.edu/projects/1080330549/embed" 
