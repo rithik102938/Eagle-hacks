@@ -26,7 +26,7 @@ scratch_iframe = '''
         frameborder="0" 
         scrolling="no" 621172683
         allowfullscreen></iframe>
-'''
+''' 
 
 # Display the iframe in the Streamlit app
 st.components.v1.html(scratch_iframe, height=402)
