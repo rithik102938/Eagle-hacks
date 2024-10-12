@@ -1,6 +1,8 @@
 import streamlit as st
 
-st.title("Lets play addition game")
+st.title("Math Games")
+
+st.header("Rishik's Game")
 # HTML for the Scratch iframe
 scratch_iframe = '''
 <iframe src="https://scratch.mit.edu/projects/760756130/embed" 
