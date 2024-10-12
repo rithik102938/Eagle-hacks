@@ -38,7 +38,7 @@ st.components.v1.html(scratch_iframe, height=402)
 st.header("Glide Bird")
 # HTML for the Scratch iframe
 scratch_iframe = '''
-<iframe src="https://scratch.mit.edu/projects/760756130/embed" 
+<iframe src="https://scratch.mit.edu/projects//embed" 
         allowtransparency="true" 
         width="485" 
         height="402" 
